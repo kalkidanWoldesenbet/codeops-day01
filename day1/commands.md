@@ -67,7 +67,7 @@ git log --oneline
 ## Part 4: GitHub commands
 
 ```bash
-git remote add origin https://github.com/YOUR-USERNAME/codeops-day01.git
+git remote add origin https://github.com/kalkidanwoldesenbet/codeops-day01.git
 git branch -M main
 git push -u origin main
 ```
